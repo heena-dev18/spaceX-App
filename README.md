@@ -46,3 +46,6 @@ the fitlers used here are route based query string filters.
 
 # Lighthouse Score
 ![new Score](https://i.ibb.co/KwZwhN9/Screenshot-2020-09-12-at-9-51-16-PM.png)
+
+##Screenshots
+
