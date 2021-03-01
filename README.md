@@ -49,3 +49,7 @@ the fitlers used here are route based query string filters.
 
 ##Screenshots
 
+![Screenshot (30)](https://user-images.githubusercontent.com/31484393/109467980-fdb0c880-7a91-11eb-81ab-d73dad9e9d4a.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/31484393/109467997-01dce600-7a92-11eb-899e-962cc80b01f1.png)
+
+
